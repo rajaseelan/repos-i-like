@@ -23,3 +23,22 @@
 1. [Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. ](https://github.com/Microsoft/ethr)
 
 1. [NETCAP - Traffic analysis framework](https://github.com/dreadl0ck/netcap)
+
+1. [ISTIO Tutorial](https://github.com/redhat-developer-demos/istio-tutorial)
+
+1. [How to checkout a git tag](https://stackoverflow.com/a/35979751/962561)
+
+1. [One liner Dropbox CLient](http://lpan.io/one-liner-dropbox-client/)
+
+1. [Remove Cached .deb files](https://askubuntu.com/questions/32191/how-do-i-remove-cached-deb-files)
+
+1. [Lustre Monitoring](http://wiki.lustre.org/Lustre_Monitoring_and_Statistics_Guide)
+
+
+### Articles
+
+1. [Mental Models I find repeatedly useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+1. [The Science of Making your kid smarter](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
+
+
