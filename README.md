@@ -39,6 +39,9 @@
 1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 1. [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+1. [lsix - ls for images](https://github.com/hackerb9/lsix)
+
 ### Articles
 
 1. [Mental Models I find repeatedly useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
