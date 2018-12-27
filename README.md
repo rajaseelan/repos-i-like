@@ -36,6 +36,7 @@
 
 1. [ps_mem - accurately report core memory usage for a program](https://github.com/pixelb/ps_mem)
 
+1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ### Articles
 
