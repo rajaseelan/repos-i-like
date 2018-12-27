@@ -42,6 +42,18 @@
 
 1. [lsix - ls for images](https://github.com/hackerb9/lsix)
 
+### Go
+
+1. [Dive - explore Docker layers](https://github.com/wagoodman/dive)
+
+1. [Awesome Go](https://github.com/avelino/awesome-go)
+
+1. [Building Web Applications with Golang](https://github.com/astaxie/build-web-application-with-golang)
+
+1. [DOcker Practice](https://github.com/yeasy/docker_practice)
+
+1. [annie - video downloader](https://github.com/iawia002/annie)
+
 ### Articles
 
 1. [Mental Models I find repeatedly useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
