@@ -34,6 +34,8 @@
 
 1. [Lustre Monitoring](http://wiki.lustre.org/Lustre_Monitoring_and_Statistics_Guide)
 
+1. [ps_mem - accurately report core memory usage for a program](https://github.com/pixelb/ps_mem)
+
 
 ### Articles
 
