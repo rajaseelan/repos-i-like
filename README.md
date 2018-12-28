@@ -58,6 +58,9 @@
 
 1. [annie - video downloader](https://github.com/iawia002/annie)
 
+### Apps
+1. [Safari Books](https://github.com/lorenzodifuccia/safaribooks)
+
 ### Articles
 
 1. [Mental Models I find repeatedly useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
