@@ -2,7 +2,7 @@
 
 ### Github Repos to note
 
-1.  [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+1. [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 1. [FAQ Guru](https://github.com/FAQGURU/FAQGURU)
 
@@ -42,6 +42,10 @@
 
 1. [lsix - ls for images](https://github.com/hackerb9/lsix)
 
+### Kubernetes
+1. [IBM DevOps for Cloud Native Reference Application](https://github.com/ibm-cloud-architecture/refarch-cloudnative-devops-kubernetes)
+
+1. [How does the kubernetes scheduler work - Jvns](https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/)
 ### Go
 
 1. [Dive - explore Docker layers](https://github.com/wagoodman/dive)
