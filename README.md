@@ -53,6 +53,8 @@
 
 1. [IBM - Reference Arch for CLoud Native APP on K8s](https://github.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/tree/spring)
 
+1. [Hobby Kube - K8s on a budget](https://github.com/hobby-kube/guide)
+
 ### Go
 
 1. [Dive - explore Docker layers](https://github.com/wagoodman/dive)
