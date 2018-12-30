@@ -76,4 +76,5 @@
 
 1. [The Science of Making your kid smarter](https://www.wsj.com/articles/the-science-behind-making-your-child-smarter-11545660001)
 
+1. [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
