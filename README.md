@@ -42,6 +42,8 @@
 
 1. [lsix - ls for images](https://github.com/hackerb9/lsix)
 
+1. [Statistics for Engineers - SRECON](https://github.com/HeinrichHartmann/Statistics-for-Engineers)
+
 ### Kubernetes
 1. [IBM DevOps for Cloud Native Reference Application](https://github.com/ibm-cloud-architecture/refarch-cloudnative-devops-kubernetes)
 
