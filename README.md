@@ -81,3 +81,5 @@
 1. [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 
 1. [Vaidehi Joshi - CS Basics](https://medium.com/@vaidehijoshi)
+
+1. [Deep Learning Book](http://neuralnetworksanddeeplearning.com/)
