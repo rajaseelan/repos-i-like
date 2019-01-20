@@ -83,3 +83,14 @@
 1. [Vaidehi Joshi - CS Basics](https://medium.com/@vaidehijoshi)
 
 1. [Deep Learning Book](http://neuralnetworksanddeeplearning.com/)
+
+1. [Interviewed at 6 Tech Firms](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996)
+
+1. [Couple of years of Swing Trading](https://theascent.pub/i-took-a-couple-years-off-of-work-to-swing-trade-heres-what-happened-fbaa53087f3)
+
+1. [What people say before they die](https://www.theatlantic.com/family/archive/2019/01/how-do-people-communicate-before-death/580303/)
+### Vim
+
+1. [Surviving First week](https://thoughtbot.com/upcase/videos/onramp-to-vim-surviving-your-first-week)
+
+1. 
