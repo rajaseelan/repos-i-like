@@ -57,6 +57,8 @@
 
 1. [Hobby Kube - K8s on a budget](https://github.com/hobby-kube/guide)
 
+1. [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
+
 ### Go
 
 1. [Dive - explore Docker layers](https://github.com/wagoodman/dive)
@@ -94,3 +96,13 @@
 1. [Surviving First week](https://thoughtbot.com/upcase/videos/onramp-to-vim-surviving-your-first-week)
 
 1. 
+
+### Algorithms
+1. [Big O Notation](http://bigocheatsheet.com/)
+
+
+### Software Dev
+1. [OO Patterns in Life](http://www.sihui.io/design-patterns/)
+
+### Golang
+1. [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
