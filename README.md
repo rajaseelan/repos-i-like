@@ -110,3 +110,10 @@
 ### vue.js
 1. [Vue Examples](https://github.com/peterlamar/vue-examples)
 
+
+### UX
+1. [Easy to Remember Color Guide for Non-Desingers](https://sendwithses.gitbook.io/helpdocs/random-stuff/easy-to-remember-color-guide-for-non-designers)
+
+### CS Stuf
+1. [A gentle introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
+
